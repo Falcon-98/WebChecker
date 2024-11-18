@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "securityscorecard",
+      "source": "@securityscorecard/v1.7.19#bdyyvm2asp6fz",
+      "integrity": "sha512-Tl/0WQ6OQUYQwyblusx29hL86cyQ2fPn8fLYCguT6FtEqbHhfvuo3jwF5fL+xCIY2TWYcs4uBMOzDTADfY61Sw==",
+      "installerVersion": "6.1.2"
+    }
+  ]
+}
